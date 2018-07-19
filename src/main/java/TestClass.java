@@ -1,3 +1,3 @@
 public class TestClass {
-void myBetterMethod2(){}
+void noThisIsBetter(){}
 }
